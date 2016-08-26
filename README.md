@@ -13,7 +13,22 @@
 
 ### General Description
 
-Description Coming Soon...
+M-BUS RF click is a mikroBUS™ add-on board with a Telit ME70-169 RF wireless module. The radio operates at the unlicensed ISM frequency band between 169.400 and 169.475 MHz. The device is compliant with EN13757 part 4 2013. 
+The module has specified serial data rates of up to 115.2 Kbps and radio data rates of 2.4, 4.8 and 19.2 kbps. For security, the wireless signal has AES and NRZ encryption. Output power is from 125 mW to 631 mV (28dBm). According to the vendor’s data sheet, the module has wireless range of up to 20 km.
+Short for Meter-Bus, this protocol was designed for the remote reading of gas or electricity meters, but it’s also suitable for alarm systems, illumination installations, heating control and more.
+M-BUS RF click communicates with the target MCU through the mikroBUS™ UART interface, with additional functionality provided by RESET, RTS, and CTS pins. The board is designed to use a 3.3 power supply only.
+Applications
+Wireless M-BUS was designed for gas and water meter applications.
+Key features
+- Telit ME70-169 RF wireless module
+- Data rates: 115.2 Kbps serial; 2.4, 4.8 and 19.2 kbps radio 
+- UART interface
+- 3.3V power supply
+Key benefits
+- Specified range of up to 20km
+- Wide area coverage
+- Ready-to-use examples save development time
+- Works in all MikroElektronika compilers
 
 
 ---
