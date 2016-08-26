@@ -1,6 +1,6 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-![M-BUS RF Click](http://cdn.mikroe.com/img/click/m-bus-rf/m-bus-rf.png)
+![M-BUS RF Click](http://cdn.mikroe.com/img/click/m-bus-rf/gallery/m-bus-rf-click-02.png)
 
 ---
 [Product Page](http://www.mikroe.com/click/m-bus-rf)
